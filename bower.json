@@ -1,0 +1,12 @@
+{
+  "name": "xhr",
+  "authors": [
+    "lakshminarayanan sv <lakshminarayanan2060@gmail.com>"
+  ],
+  "description": "AJAX request.",
+  "main": "ajax.js",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true
+}
